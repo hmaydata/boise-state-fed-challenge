@@ -20,4 +20,5 @@ The poster summarizes our analysis of labor-market conditions, inflation, econom
 * Quantitative analysis
 * Economic research & presentation
 * Team-based analysis
+
 👉 [Click here for PDF of Poster](FedClub_Poster.pdf)
