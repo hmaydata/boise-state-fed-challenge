@@ -10,7 +10,7 @@ As part of the team, I research trends across financial, labor, housing, and goo
 
 The poster summarizes our analysis of labor-market conditions, inflation, economic growth, financial conditions, housing, and expected inflation. Our April recommendation was to maintain the current policy rate while continuing a data-dependent, "wait-and-see" approach in light of persistent inflation risks and slowing growth.
 
-!(FedClub_Poster.png)
+![Research Showcase Poster](FedClub_Poster.png)
 
 ## Skills & Tools
 * Economic & financial data analysis
