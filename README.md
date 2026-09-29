@@ -4,7 +4,7 @@ I am a member of the Boise State University Federal Reserve Club and College Fed
 
 As part of the team, I research trends across financial, labor, housing, and goods markets and use data from FRED and other economic sources to evaluate current economic conditions. I create and analyze economic visualizations using R and RStudio, discuss the significance of economic indicators with the team, and present recommendations regarding monetary policy. 
 
-![Research Showcase Presentation](./FedClub_presenting.png)
+![Research Showcase Presentation](FedClub_Presenting.png)
 
 ## Research Poster
 ### Navigating Monetary Policy in the Wake of Shifting Markets
